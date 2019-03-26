@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1553565833 source:/home/joshua/C/ED2/BTree/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Tree.h"
+
+1553565619 /home/joshua/C/ED2/BTree/Tree.h
+
+1553093477 /home/joshua/C/ED2/BTree/ArvBin.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1553565833 source:/home/joshua/C/ED2/BTree/ArvBin.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<stack>
+	"Tree.h"
+	<queue>
+	<string.h>
+	<string>
+	<algorithm>
+
