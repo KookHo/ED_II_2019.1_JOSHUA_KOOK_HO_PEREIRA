@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556919703 source:/home/joshua/C/ED2/B_Tree/BTree.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	"BTree.h"
+
+1556917772 /home/joshua/C/ED2/B_Tree/BTree.h
+
+1556919646 source:/home/joshua/C/ED2/B_Tree/main.cpp
+	<iostream>
+	<math.h>
+	"BTree.h"
+
