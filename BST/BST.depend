@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1554245986 source:/home/joshua/C/ED2/BST/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	"SearchTree.h"
+
+1554245691 /home/joshua/C/ED2/BST/SearchTree.h
+
+1554245928 source:/home/joshua/C/ED2/BST/SearchTree.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	"SearchTree.h"
+
