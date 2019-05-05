@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554900184 source:/home/joshua/C/ED2/AVLTree/AVL.cpp
+	<iostream>
+	<stdlib.h>
+	"AVL.h"
+
+1556210684 /home/joshua/C/ED2/AVLTree/AVL.h
+
+1556210950 source:/home/joshua/C/ED2/AVLTree/main.cpp
+	<iostream>
+	<stdlib.h>
+	"AVL.h"
+
