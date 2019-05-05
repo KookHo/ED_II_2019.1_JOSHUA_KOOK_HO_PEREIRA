@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556842590 source:/home/joshua/C/ED2/RedBlackTree/main.cpp
+	<iostream>
+	<stdlib.h>
+	"RBTree.h"
+
+1556842772 source:/home/joshua/C/ED2/RedBlackTree/RBTree.cpp
+	<iostream>
+	<stdlib.h>
+	<queue>
+	"RBTree.h"
+
+1556818777 /home/joshua/C/ED2/RedBlackTree/RBTree.h
+
