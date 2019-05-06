@@ -45,10 +45,10 @@ Nodo * insertNode(Nodo * raiz, int k){
         return rightRotation(raiz);
     }
 
-    if(bf > 1 && k > raiz->esq->info)
+    if(bf > 1 && k > raiz->dir->info)
         return leftRotation(raiz);
 
-    if(bf > 1 && k < raiz->esq->info){
+    if(bf > 1 && k < raiz->dir->info){
         raiz->dir = rightRotation(raiz->dir);
         return leftRotation(raiz);
     }
