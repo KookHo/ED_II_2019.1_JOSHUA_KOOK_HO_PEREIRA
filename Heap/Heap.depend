@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558290404 source:/home/joshua/C/ED2/Heap/heap.cpp
+	<iostream>
+	<array>
+	<climits>
+	"heap.h"
+
+1558289661 source:/home/joshua/C/ED2/Heap/main.cpp
+	<iostream>
+	<array>
+	"heap.h"
+
+1558289950 /home/joshua/C/ED2/Heap/heap.h
+
